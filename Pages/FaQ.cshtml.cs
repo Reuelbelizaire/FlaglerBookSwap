@@ -1,0 +1,13 @@
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace FlaglerBookSwap.Pages
+{
+    public class Index1Model : PageModel
+    {
+        public void OnGet()
+        {
+            //test vvv
+        }
+    }
+}
